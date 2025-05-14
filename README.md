@@ -78,6 +78,6 @@ I’m a versatile Data Science professional with over 3.5 years of experience in
 
 ---
 
-📫 **Let's Connect**: srhreddy9686@gmail.com | [LinkedIn](https://www.linkedin.com/)
+📫 **Let's Connect**: srhreddy9686@gmail.com | [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shiva-raj-harinath-reddy-33834a28b/)
 
 Feel free to explore my repositories and reach out if you're working on something exciting in analytics, ML, or data engineering!
